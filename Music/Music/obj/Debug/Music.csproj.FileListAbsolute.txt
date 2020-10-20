@@ -1,0 +1,243 @@
+D:\курсач\c#\Music\Music\bin\Debug\Music.exe.config
+D:\курсач\c#\Music\Music\bin\Debug\Music.exe
+D:\курсач\c#\Music\Music\bin\Debug\Music.pdb
+D:\курсач\c#\Music\Music\obj\Debug\Resources\lang.ru-RU.baml
+D:\курсач\c#\Music\Music\obj\Debug\Resources\lang.baml
+D:\курсач\c#\Music\Music\obj\Debug\App.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\Music_MarkupCompile.cache
+D:\курсач\c#\Music\Music\obj\Debug\Music_MarkupCompile.lref
+D:\курсач\c#\Music\Music\obj\Debug\App.baml
+D:\курсач\c#\Music\Music\obj\Debug\Music.g.resources
+D:\курсач\c#\Music\Music\obj\Debug\Music.Properties.Resources.resources
+D:\курсач\c#\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+D:\курсач\c#\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+D:\курсач\c#\Music\Music\obj\Debug\Music.exe
+D:\курсач\c#\Music\Music\obj\Debug\Music.pdb
+D:\курсач\c#\Music\Music\bin\Debug\BouncyCastle.Crypto.dll
+D:\курсач\c#\Music\Music\bin\Debug\EntityFramework.dll
+D:\курсач\c#\Music\Music\bin\Debug\EntityFramework.SqlServer.dll
+D:\курсач\c#\Music\Music\bin\Debug\Google.Protobuf.dll
+D:\курсач\c#\Music\Music\bin\Debug\MySql.Data.dll
+D:\курсач\c#\Music\Music\bin\Debug\Renci.SshNet.dll
+D:\курсач\c#\Music\Music\bin\Debug\Ubiety.Dns.Core.dll
+D:\курсач\c#\Music\Music\bin\Debug\EntityFramework.xml
+D:\курсач\c#\Music\Music\bin\Debug\EntityFramework.SqlServer.xml
+D:\курсач\c#\Music\Music\bin\Debug\Google.Protobuf.xml
+D:\курсач\c#\Music\Music\bin\Debug\MySql.Data.xml
+D:\курсач\c#\Music\Music\bin\Debug\Renci.SshNet.xml
+D:\курсач\c#\Music\Music\bin\Debug\ru\EntityFramework.resources.dll
+D:\курсач\c#\Music\Music\obj\Debug\Music.csproj.CopyComplete
+D:\курсач\c#\Music\Music\obj\Debug\view\Welcome.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\Welcome.baml
+D:\курсач\c#\Music\Music\obj\Debug\view\Registration.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\Registration.baml
+D:\курсач\c#\Music\Music\obj\Debug\view\AdminWindow.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\RegisterUserWindow.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\AdminWindow.baml
+D:\курсач\c#\Music\Music\obj\Debug\view\RegisterUserWindow.baml
+D:\курсач\c#\Music\Music\obj\Debug\view\CasualWindow.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\CasualWindow.baml
+D:\курсач\c#\Music\Music\obj\Debug\view\DialogsWindow.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\DialogsWindow.baml
+D:\курсач\c#\Music\Music\obj\Debug\Music_Content.g.cs
+D:\курсач\c#\Music\Music\bin\Debug\client_secret.json
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.dll
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.dll
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.dll
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.dll
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.PlatformServices.dll
+D:\курсач\c#\Music\Music\bin\Debug\Newtonsoft.Json.dll
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.pdb
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.xml
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.pdb
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.xml
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.pdb
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.xml
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.xml
+D:\курсач\c#\Music\Music\bin\Debug\Newtonsoft.Json.xml
+D:\курсач\c#\Music\Music\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\курсач\c#\Music\Music\obj\Debug\view\CreateSongWindow.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\CreateSongWindow.baml
+D:\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\курсач\c#\Music\Music\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\курсач\c#\Music\Music\obj\Debug\view\CreatePlayListWindow.g.cs
+D:\курсач\c#\Music\Music\obj\Debug\view\CreatePlayListWindow.baml
+D:\курсач\c#\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+D:\not important\курсач\c#\Music\Music\bin\Debug\client_secret.json
+D:\not important\курсач\c#\Music\Music\bin\Debug\Music.exe.config
+D:\not important\курсач\c#\Music\Music\bin\Debug\Music.exe
+D:\not important\курсач\c#\Music\Music\bin\Debug\Music.pdb
+D:\not important\курсач\c#\Music\Music\bin\Debug\BouncyCastle.Crypto.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\EntityFramework.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\EntityFramework.SqlServer.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.PlatformServices.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Protobuf.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\MySql.Data.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Newtonsoft.Json.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Renci.SshNet.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Ubiety.Dns.Core.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\EntityFramework.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\EntityFramework.SqlServer.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.pdb
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.pdb
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.pdb
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\Google.Protobuf.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\MySql.Data.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\Newtonsoft.Json.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\Renci.SshNet.xml
+D:\not important\курсач\c#\Music\Music\bin\Debug\ru\EntityFramework.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+D:\not important\курсач\c#\Music\Music\obj\Debug\resources\lang.ru-RU.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\resources\lang.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\AdminWindow.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\CasualWindow.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\CreatePlayListWindow.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\CreateSongWindow.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\DialogsWindow.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\RegisterUserWindow.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\Registration.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\Welcome.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\App.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music_Content.g.cs
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music_MarkupCompile.cache
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music_MarkupCompile.lref
+D:\not important\курсач\c#\Music\Music\obj\Debug\App.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\AdminWindow.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\CasualWindow.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\CreatePlayListWindow.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\CreateSongWindow.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\DialogsWindow.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\RegisterUserWindow.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\Registration.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\view\Welcome.baml
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.g.resources
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.Properties.Resources.resources
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.csproj.CopyComplete
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.exe
+D:\not important\курсач\c#\Music\Music\obj\Debug\Music.pdb
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\client_secret.json
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Music.exe.config
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Music.exe
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Music.pdb
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\BouncyCastle.Crypto.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\EntityFramework.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\EntityFramework.SqlServer.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.PlatformServices.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Protobuf.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\MySql.Data.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Newtonsoft.Json.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Renci.SshNet.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Ubiety.Dns.Core.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\EntityFramework.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\EntityFramework.SqlServer.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.pdb
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.pdb
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Auth.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.pdb
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Core.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Apis.Drive.v3.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Google.Protobuf.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\MySql.Data.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Newtonsoft.Json.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\Renci.SshNet.xml
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\ru\EntityFramework.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\resources\lang.ru-RU.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\resources\lang.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\AdminWindow.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\CasualWindow.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\CreatePlayListWindow.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\CreateSongWindow.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\DialogsWindow.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\RegisterUserWindow.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\Registration.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\Welcome.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\App.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music_Content.g.cs
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music_MarkupCompile.cache
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music_MarkupCompile.lref
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\App.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\AdminWindow.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\CasualWindow.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\CreatePlayListWindow.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\CreateSongWindow.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\DialogsWindow.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\RegisterUserWindow.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\Registration.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\view\Welcome.baml
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.g.resources
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.Properties.Resources.resources
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.csproj.CopyComplete
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.exe
+D:\notImportant\курсач\c#\Music\Music\obj\Debug\Music.pdb
